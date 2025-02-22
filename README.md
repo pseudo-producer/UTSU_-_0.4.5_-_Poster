@@ -1,4 +1,4 @@
-# UTSU_-_0.4.5_-_Poster
+# UTSU - 0.4.5 - Poster
 
 ![Iona - Vector](https://github.com/user-attachments/assets/e36eeceb-85f5-439e-99e7-07cabad0d6be)
 
